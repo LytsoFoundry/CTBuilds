@@ -1,0 +1,7 @@
+{
+  "name": "LustBox",
+  "iconUrl": "https://github.com/LytsoFoundry.png",
+  "description": "Repositório Brasileiro para o Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": ["https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/plugins.json"]
+}
