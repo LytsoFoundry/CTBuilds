@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://animefire.io/img/icons/favicon-192x192.png",
-        "fileHash": "sha256-47573e7fa28b6d06f4dea9f2467bcba744c9aa8eb764e4215c6f1b3ac5ef80a5",
+        "fileHash": "sha256-d552d6b128d81c2712fabddba7c7e56c0fb717731bfe01d7ecb84eb9bbeb4ba5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 42539,
+        "fileSize": 42538,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://www.anitube.news/wp-content/uploads/cropped-Favicon6-192x192.png",
-        "fileHash": "sha256-1fa597deb6929e04aa2f253f097f544466830b0f83812fecfdd9c16205a643d3",
+        "fileHash": "sha256-07c878a8f34a7677d47b357fccb9931f5ac1da5e24d3a1a47678745007740751",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 35903,
+        "fileSize": 35907,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://cineagora.net/templates/cineagora/images/touch-icon-180x180.png",
-        "fileHash": "sha256-f47e74f1f2cb0965b42db65cecbac06cb0f701b2d30469f6d5e7cc1110c047e1",
+        "fileHash": "sha256-cea7c0d820e5529aaa8039914c58401e62f7fe03f5868c1b0500ed5e79576d8d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 65893,
+        "fileSize": 65895,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -63,10 +63,10 @@
     },
     {
         "iconUrl": "https://www.dattebayo-br.com/favicon.png",
-        "fileHash": "sha256-1615405a33145e1dc2a18f9038de32d30911cc5cfff89482ac80bc1ddfbf20c4",
+        "fileHash": "sha256-ee9dd753d43534467bcc2a85e256fde979a8ff5123e904bc47df1c7422d47988",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 26298,
+        "fileSize": 26303,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -83,7 +83,7 @@
     },
     {
         "iconUrl": "https://www.doramogo.net/assets/doramogo/images/apple-touch-icon.webp?version=200.50.10",
-        "fileHash": "sha256-3da0a7919b11b1dbcd0244f0a1d5a832aff954ee7f12b3dcc0a6ae892d725d3b",
+        "fileHash": "sha256-e0eba26977ff10d3646b8cd7001483edc64f6d172fba1156164da0f363157b5b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
         "fileSize": 57875,
@@ -103,10 +103,10 @@
     },
     {
         "iconUrl": "https://embedtv.best/assets/icon.png",
-        "fileHash": "sha256-1fa4754490505fbe25de416d23b3fe6e8a1a003fada49393b151d7ec4bf8dd23",
+        "fileHash": "sha256-2d97907f9482b05123a875bb9c74c8307397fa1ee0f74f6b8da1a13459723d76",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 15651,
+        "fileSize": 15653,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -123,10 +123,10 @@
     },
     {
         "iconUrl": "https://goyabu.io/wp-content/uploads/2025/12/cropped-goyabu-favicon-192x192.png",
-        "fileHash": "sha256-cfcc27ed9cd4cdfc95020a9886f74c1dd3763565b43d1be0fb4236177b01732e",
+        "fileHash": "sha256-0da4bcd93aaa3232da506d285c58bbe5d03edd962f98d177d69a7f57f4589313",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 33124,
+        "fileSize": 33112,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -143,10 +143,10 @@
     },
     {
         "iconUrl": "https://mendigoflix.lol/assets/favicon.png",
-        "fileHash": "sha256-732c7604d4b2110becadb59d242e41a70c4941e0826c20bac38a9bec0a434fb2",
+        "fileHash": "sha256-2e1a696b6768bc30bb91bfe082787fe56959a8ebf044a3417d03ea57521576ea",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 54758,
+        "fileSize": 54762,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -165,10 +165,10 @@
     },
     {
         "iconUrl": "https://www.image2url.com/r2/default/images/1776018665375-eafe8c65-10f1-490c-9994-2f519402b6e3.png",
-        "fileHash": "sha256-4feee6706993463bae5092c5051438c7b736b45d44daf98b0ddeac2402e4fe23",
+        "fileHash": "sha256-3c2a28116fac324ccd513926dcc7d054b95259835c31c6a1ccf820a298cadded",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 44214,
+        "fileSize": 44217,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -188,10 +188,10 @@
     },
     {
         "iconUrl": "https://www.image2url.com/r2/default/images/1776423716151-20e5aa74-a764-4d60-8575-0851d8ab37df.png",
-        "fileHash": "sha256-93239022bdd325d2d074fdf975b307a40715b6d44e5988ceb8be296c876059d6",
+        "fileHash": "sha256-8c82e57743f5847c85548daabf51ee717f5ad09406e203393441c093c2aa2c17",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 13992,
+        "fileSize": 13989,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -208,10 +208,10 @@
     },
     {
         "iconUrl": "https://openclipart.org/image/2400px/svg_to_png/193323/-S.png",
-        "fileHash": "sha256-db9536d3e8f5f64299ea9b822f73ffb9fa09eafa126a6a12365e491ebaf3829c",
+        "fileHash": "sha256-62ff03cb46df0770813cb1732b9df33ac6bc8c91e5373e1822f960cc5a1d4613",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
-        "fileSize": 53440,
+        "fileSize": 53445,
         "status": 1,
         "language": "pt-br",
         "authors": [
