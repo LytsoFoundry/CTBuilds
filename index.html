@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lytso Repo</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #FFFFFF;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        h1 {
+            color: #FF8C00;
+            font-size: 22px;
+            margin-bottom: 6px;
+            font-weight: 500;
+            letter-spacing: -0.5px;
+        }
+        p {
+            color: #666666;
+            font-size: 14px;
+            margin-bottom: 28px;
+        }
+        .btn {
+            background-color: #000000;
+            color: #FF8C00;
+            border: 1px solid #FF8C00;
+            padding: 12px 24px;
+            font-size: 14px;
+            font-weight: 500;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s ease-in-out;
+        }
+        .btn:hover {
+            background-color: #FF8C00;
+            color: #000000;
+        }
+        .btn:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Lytso Repo</h1>
+    <p>Redirecionando para o CloudStream...</p>
+
+    <button class="btn" id="copyBtn" onclick="copyUrl()">Copiar URL do Repositório</button>
+
+    <script>
+        const repoUrl = "https://raw.githubusercontent.com/LytsoFoundry/CTBuilds/main/repo.json";
+        const deepLink = "cloudstreamrepo://raw.githubusercontent.com/LytsoFoundry/CTBuilds/main/repo.json";
+
+        window.location.href = deepLink;
+
+        function copyUrl() {
+            navigator.clipboard.writeText(repoUrl).then(() => {
+                const btn = document.getElementById('copyBtn');
+                btn.innerText = "URL Copiada";
+                btn.style.borderColor = "#00FF00";
+                btn.style.color = "#00FF00";
+                
+                setTimeout(() => {
+                    btn.innerText = "Copiar URL do Repositório";
+                    btn.style.borderColor = "#FF8C00";
+                    btn.style.color = "#FF8C00";
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
