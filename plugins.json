@@ -1,0 +1,230 @@
+[
+    {
+        "iconUrl": "https://animefire.io/img/icons/favicon-192x192.png",
+        "fileHash": "sha256-2fc28ba2ee5bac2c229f4639a3db632ba1999c473d79ed9e147793d99df8c39e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 42541,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Animes"
+        ],
+        "version": 2,
+        "internalName": "AnimeFire",
+        "description": "Site brasileiro de animes em portugu\u00eas",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/AnimeFire.cs3",
+        "name": "AnimeFire"
+    },
+    {
+        "iconUrl": "https://www.anitube.news/wp-content/uploads/cropped-Favicon6-192x192.png",
+        "fileHash": "sha256-467508c4669a02e61a02287f6a7aae83838dfa68f84241403a1a3c6bb273c913",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 35904,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Animes"
+        ],
+        "version": 2,
+        "internalName": "AniTube",
+        "description": "AniTube \u00e9 um site para assistir seus animes favoritos online e de onde quiser, temos uma lista completa com diversos animes recentes e antigos para voc\u00ea explorar e o melhor disso tudo \u00e9 a qualidade do nosso site que o diferencia de outros.",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/AniTube.cs3",
+        "name": "AniTube"
+    },
+    {
+        "iconUrl": "https://cineagora.net/templates/cineagora/images/touch-icon-180x180.png",
+        "fileHash": "sha256-50a80eb877c5abe89bb9f3c389237e0572af71ced1bfa56bd94a3ceca9a16331",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 65897,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Movies",
+            "Series",
+            "Animes"
+        ],
+        "version": 1,
+        "internalName": "CineAgora",
+        "description": "Assista filmes e s\u00e9ries online gr\u00e1tis em HD no CineAgora",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/CineAgora.cs3",
+        "name": "CineAgora"
+    },
+    {
+        "iconUrl": "https://www.dattebayo-br.com/favicon.png",
+        "fileHash": "sha256-24804eeb52238545a4fe8a0f167948ed8904fbb144bcec54a299b7a99cba347c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 26297,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Anime, AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "DattebayoBR",
+        "description": "DattebayoBR Animes Online",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/DattebayoBR.cs3",
+        "name": "DattebayoBR"
+    },
+    {
+        "iconUrl": "https://www.doramogo.net/assets/doramogo/images/apple-touch-icon.webp?version=200.50.10",
+        "fileHash": "sha256-f232dbc85cf39f0cd912879a933a191956523817a22afca7a113a48b9cbbb6a9",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 57876,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "Doramogo",
+        "description": "Site de Doramas online",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/Doramogo.cs3",
+        "name": "Doramogo"
+    },
+    {
+        "iconUrl": "https://embedtv.best/assets/icon.png",
+        "fileHash": "sha256-35a2a9880efe7795db2bb3f71a98fabcb2ba63ac53e175e281238775fe5338f0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 15654,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 3,
+        "internalName": "EmbedTV",
+        "description": "Embed TV - O melhor site de TV online. ",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/EmbedTV.cs3",
+        "name": "EmbedTV"
+    },
+    {
+        "iconUrl": "https://goyabu.io/wp-content/uploads/2025/12/cropped-goyabu-favicon-192x192.png",
+        "fileHash": "sha256-ff8838c5bfb424964b664b8ea5d2c41ffcb1c90716e3908ab25df2d7b09b2b47",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 33113,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Animes"
+        ],
+        "version": 2,
+        "internalName": "Goyabu",
+        "description": "Animes Online em HD gratuitamente no Goyabu",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/Goyabu.cs3",
+        "name": "Goyabu"
+    },
+    {
+        "iconUrl": "https://mendigoflix.lol/assets/favicon.png",
+        "fileHash": "sha256-dbef908ee2e074048f266f112723deb9006555a72cab8ee889dcfa86f3c4eff3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 54759,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Movies",
+            "Series",
+            "Animes"
+        ],
+        "version": 3,
+        "internalName": "MendigoFlix",
+        "description": "MendigoFlix - Filmes e S\u00e9ries em Portugu\u00eas",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/MendigoFlix.cs3",
+        "name": "MendigoFlix"
+    },
+    {
+        "iconUrl": "https://www.image2url.com/r2/default/images/1776018665375-eafe8c65-10f1-490c-9994-2f519402b6e3.png",
+        "fileHash": "sha256-6097655ce4b2c94981bf8154d5042d84640f23570e7c033d2570ef27af15b60f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 44217,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Movies",
+            "Series",
+            "Animes",
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "PobreFlix",
+        "description": "PobreFlix, assistir online, filmes, s\u00e9ries, animes, doramas",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/PobreFlix.cs3",
+        "name": "PobreFlix"
+    },
+    {
+        "iconUrl": "https://www.image2url.com/r2/default/images/1776423716151-20e5aa74-a764-4d60-8575-0851d8ab37df.png",
+        "fileHash": "sha256-f5cffa681080f0c8c3b450fffd279232aeae22164945fbdb07fd03b1454430d7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 13986,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "ReiDosEmbeds",
+        "description": "Rei dos Embeds - O melhor diret\u00f3rio de canais ao vivo. Mais de 150 canais dispon\u00edveis.",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/ReiDosEmbeds.cs3",
+        "name": "ReiDosEmbeds"
+    },
+    {
+        "iconUrl": "https://openclipart.org/image/2400px/svg_to_png/193323/-S.png",
+        "fileHash": "sha256-011d7b114cbe6de9a3b856817445fc6a97dec2341e3f7c99a76f520f4f0ff14e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LytsoFoundry/CTBuilds",
+        "fileSize": 53443,
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "lawlietbr"
+        ],
+        "tvTypes": [
+            "Movies",
+            "Series"
+        ],
+        "version": 1,
+        "internalName": "StreamFlix",
+        "description": "StreamFlix - Filmes e S\u00e9ries Online em Portugu\u00eas | Lan\u00e7amentos e Cl\u00e1ssicos",
+        "url": "https://github.com/LytsoFoundry/CTBuilds/raw/refs/heads/builds/StreamFlix.cs3",
+        "name": "StreamFlix"
+    }
+]
